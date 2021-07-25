@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> , I'm Sakhawat Hossain Rodro</h1>
-<h3 align="center">A Baby Python Programmer from Bangladesh🇧🇩</h3>
+<h3 align="center">A Baby Python Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakhawat-hossain-rodro&label=Profile%20views&color=0e75b6&style=flat" alt="Sakhawat-hossain-rodro" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sakhawat-hossain-rodro.github.io](https://sakhawat-hossain-rodro.github.io)
 
-- 📝 I regularly write articles on [https://www.rodror-diary.com](https://www.rodror-diary.com)
+- 📝 I regularly write articles on [https://www.rodroblog.com](https://www.rodroblog.com)
 
 - 📫 How to reach me **sakhawatrodro@gmail.com**
 
