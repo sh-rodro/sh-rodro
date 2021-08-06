@@ -1,1 +1,3 @@
-My name is Sakhawat Hossain Rodro.
+- 👋 Hi, I’m Rodro
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML,CSS, JavaScript.
