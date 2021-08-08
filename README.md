@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Rodro
+- 👋 Hi, I’m @sh-rodro
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML,CSS, JavaScript.
