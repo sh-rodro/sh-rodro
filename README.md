@@ -3,7 +3,7 @@
 
 ### aboutMe.php
 
-```javascript
+```html
 <?php
 
 // I am Right
