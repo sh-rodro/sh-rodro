@@ -1,9 +1,9 @@
 ## Hi there 👋 Welcome to my GitHub! I'm SH Rodro, backend developer
 
 
-### aboutMe.php
+### aboutme.php
 
-```html
+```php
 <?php
 
 // I am Right
