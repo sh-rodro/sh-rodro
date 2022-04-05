@@ -30,8 +30,7 @@ Talk to me about
 - Front-end development using **HTML, CSS, JavaScript**
 - Backend development using **PHP**
 - Database using **SQL, MySQL**
-- Mobile development using **Java**
-- Making for **Relational Database Management Systems**
+- Mobile Application using **Java**
 - Solving Data structure and algorithm questions in **Python**
 
 
