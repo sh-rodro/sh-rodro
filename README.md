@@ -15,13 +15,14 @@ I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechni
 
 // I am Right
 $status = "Life";
-echo "My name is SH Rodro";
-echo "What is " . $status . "<br>";
+echo "My name is SH Rodro" ."<br>";
+echo "What is " . $status . "?". "<br>";
 echo "I have No" . $status . "<br>";
 
 // But my output is wrong
 
 ?> 
+
 ```
 
 
