@@ -1,6 +1,13 @@
 ## Hi there 👋 Welcome to my GitHub! I'm SH Rodro, backend developer
 
 
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/sh-rodro) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/) 
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhawatrodro@gmail.com)
+ 
+
+I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechnic Institute🏫.  
+
+
 ### aboutme.php
 
 ```php
@@ -16,6 +23,24 @@ echo "I have No" . $status . "<br>";
 
 ?> 
 ```
+
+
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, JavaScript**
+- Backend development using **PHP**
+- Database using **SQL, MySQL**
+- Mobile development using **Java**
+- Making for **Relational Database Management Systems**
+- Solving Data structure and algorithm questions in **Python**
+
+
+## 📈 Github Stats
+
+<a href="https://github.com/sh-rodro/sh-rodro">
+ <img alt="sh-rodro's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sh-rodro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+
 
 <p align="center">
 Check out my repos ⬇️  
