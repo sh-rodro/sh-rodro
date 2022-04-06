@@ -19,7 +19,7 @@ echo "My name is SH Rodro" ."<br>";
 echo "What is " . $status . "?". "<br>";
 echo "I have No" . $status . "<br>";
 
-// But my output is wrong
+// My output is wrong
 
 ?> 
 
