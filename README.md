@@ -31,8 +31,7 @@ Talk to me about
 - Front-end development using **HTML, CSS, JavaScript**
 - Backend development using **PHP**
 - Database using **SQL, MySQL**
-- Mobile Application using **Java**
-- Solving Data structure and algorithm questions in **Python**
+- Game development using **Python**
 
 
 ## 📈 Github Stats
