@@ -40,7 +40,7 @@ Talk to me about
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="sh-rodro" ><img/>
-<img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="sh-rodro" ><img/>
 
 
 ## 📈 Github Stats
