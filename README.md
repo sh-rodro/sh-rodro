@@ -33,6 +33,15 @@ Talk to me about
 - Database using **SQL, MySQL**
 - Game development using **Python**
 
+## 🏅I have experience on
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="sh-rodro"><img/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="sh-rodro" ><img/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="sh-rodro" ><img/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="sh-rodro" ><img/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="sh-rodro" ><img/>
+<img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="hbappi" ><img/>
+
 
 ## 📈 Github Stats
 
