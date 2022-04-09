@@ -49,6 +49,12 @@ Talk to me about
  <img alt="sh-rodro's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sh-rodro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sh-rodro&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh-rodro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh-rodro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh-rodro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
+
 
 <p align="center">
 Check out my repos ⬇️  
