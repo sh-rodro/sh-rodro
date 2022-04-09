@@ -41,8 +41,8 @@ Talk to me about
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="sh-rodro" ><img/>
-<img src="https://img.shields.io/badge/w3.css-3670A0?style=for-the-badge&logo=w3.css&logoColor=ffdd54" alt="sh-rodro"><img/>
 <img src="https://img.shields.io/badge/bootstrap-3670A0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="sh-rodro"><img/>
+
 ## 📈 Github Stats
 
 <a href="https://github.com/sh-rodro/sh-rodro">
