@@ -43,17 +43,27 @@ Talk to me about
 <img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/bootstrap-3670A0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="sh-rodro"><img/>
 
-## 📈 Github Stats
+## 👨‍💻 Github profile details
 
-<a href="https://github.com/sh-rodro/sh-rodro">
- <img alt="sh-rodro's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sh-rodro&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
+
+
+## ⏳ Github Productive Time
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sh-rodro&theme=github&utcOffset=8)
+
+## 📈 Github Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh-rodro&theme=github)
+
+## 📊 Github most commit language
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh-rodro&theme=github)
+
+## 📊 Github Repos per language
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh-rodro&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
+
 
 
 <p align="center">
