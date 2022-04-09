@@ -43,12 +43,12 @@ Talk to me about
 <img src="https://img.shields.io/badge/mysql-5E5C5C?style=for-the-badge&logo=mysql&logoColor=white" alt="sh-rodro" ><img/>
 <img src="https://img.shields.io/badge/bootstrap-3670A0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="sh-rodro"><img/>
 
-## 👨‍💻 Github profile details
+## 👨‍💻 Profile details
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
 
 
-## ⏳ Github Productive Time
+## ⏳ Productive Time
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sh-rodro&theme=github&utcOffset=8)
 
@@ -56,11 +56,11 @@ Talk to me about
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh-rodro&theme=github)
 
-## 📊 Github most commit language
+## 📊 Top languages by Commit
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh-rodro&theme=github)
 
-## 📊 Github Repos per language
+## 📊 Top languages by Repos
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh-rodro&theme=github)
 
