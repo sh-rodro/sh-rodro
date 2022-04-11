@@ -26,7 +26,7 @@ echo "I have No" . $status . "<br>";
 ```
 
 
-## ⚡ Technologies
+## 📺👨‍💻 Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript**
 - Backend development using **PHP**
