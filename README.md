@@ -1,4 +1,4 @@
-## 🧭 Hi there 👋 Welcome to my GitHub! I'm <a href="https://sh-rodro.github.io">SH Rodro</a>, backend developer
+## Hi there 👋 Welcome to my GitHub! I'm <a href="https://sh-rodro.github.io">SH Rodro</a>, backend developer
 
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/sh-rodro)
@@ -56,11 +56,11 @@ Talk to me about
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh-rodro&theme=github)
 
-## 📊 Top languages by Commit
+## 🧭 Top languages by Commit
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh-rodro&theme=github)
 
-## 📊 Top languages by Repos
+##  📊 Top languages by Repos
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh-rodro&theme=github)
 
