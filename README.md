@@ -32,7 +32,7 @@ Talk to me about
 - Backend development using **PHP**
 - Database using **SQL, MySQL**
 - Game development using **Python**
-- CurrentlyI'm learning the **C** language
+- Currently I'm learning the **C** language
 
 ## 🏅I have experience on
 
