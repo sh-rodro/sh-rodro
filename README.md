@@ -5,7 +5,7 @@
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhawatrodro@gmail.com)
  
 
-I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechnic Institute🏫.  
+I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechnic Institute🏫.
 
 
 ### 🐈 aboutme.php
@@ -32,6 +32,7 @@ Talk to me about
 - Backend development using **PHP**
 - Database using **SQL, MySQL**
 - Game development using **Python**
+- CurrentlyI'm learning the **C** language
 
 ## 🏅I have experience on
 
