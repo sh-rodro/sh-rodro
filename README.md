@@ -13,13 +13,14 @@ I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechni
 ```php
 <?php
 
-// I am Right
-$status = "Life";
-echo "My name is SH Rodro" ."<br>";
-echo "What is " . $status . "?". "<br>";
-echo "I have No" . $status . "<br>";
+// ami habijabi likhbo
 
-// My output is wrong
+$love = "Life";
+echo "My name is SH Rodro" ."<br>";
+echo "What is " . $love . "?". "<br>";
+echo "I have No" . $love . "<br>";
+
+// Ami kicu buji na habijabi agula ki
 
 ?> 
 
