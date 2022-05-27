@@ -50,26 +50,6 @@ Talk to me about
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
 
 
-## ⏳ Productive Time
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sh-rodro&theme=github&utcOffset=8)
-
-## 📈 Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh-rodro&theme=github)
-
-## 🧭 Top languages by Commit
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sh-rodro&theme=github)
-
-##  📊 Top languages by Repos
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh-rodro&theme=github)
-
-
-
 <p align="center">
 Check out my repos ⬇️  
 </p>
-
-
