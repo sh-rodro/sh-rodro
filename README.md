@@ -31,9 +31,9 @@ echo "I have No" . $love . "<br>";
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript**
 - Backend development using **PHP**
-- Database using **SQL, MySQL**
-- Game development using **Python**
-- Currently I'm learning the **C** language
+- Database using **MySQL**
+- Mobile Application development using **Python**
+- Currently I'm learning the **C#** language
 
 ## 🏅I have experience on
 
