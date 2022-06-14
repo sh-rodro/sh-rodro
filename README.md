@@ -29,10 +29,10 @@ echo "I have No" . $love . "<br>";
 
 ## 📺 Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript**
+- Front-end development using **HTML, CSS**
 - Backend development using **PHP**
 - Database using **MySQL**
-- Mobile Application development using **Python**
+- Desktop Application development using **Python**
 - Currently I'm learning the **C#** language
 
 ## 🏅I have experience on
