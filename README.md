@@ -46,7 +46,7 @@ Talk to me about
 
 ## 👨‍💻 Profile details
 
-![]()
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
 
 
 <p align="center">
