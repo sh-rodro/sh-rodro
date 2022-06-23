@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub! I'm <a href="https://sh-rodro.github.io">@sh-rodro</a>, hungry coder
 
-I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechnic Institute.
+I live in Dhaka,Bangladesh and studying Computer Science and Technology at Dhaka Polytechnic Institute.
 
 ### 📁 aboutme.php
 
