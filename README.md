@@ -1,12 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub! I'm <a href="https://sh-rodro.github.io">@sh-rodro</a>, hungry coder
 
-
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/sh-rodro)
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhawatrodro@gmail.com)
- 
-
 I live in Dhaka and studying Computer Science and Technology at Dhaka Polytechnic Institute.
-
 
 ### 📁 aboutme.php
 
@@ -25,7 +19,6 @@ echo "I have No" . $love . "<br>";
 ?> 
 
 ```
-
 
 ## 📺 Technologies
 Talk to me about
