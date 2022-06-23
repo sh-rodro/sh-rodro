@@ -2,7 +2,7 @@
 
 I live in Dhaka,Bangladesh and studying Computer Science and Technology at Dhaka Polytechnic Institute.
 
-### 📁 aboutme.php
+### aboutme.php
 
 ```php
 <?php
@@ -20,7 +20,7 @@ echo "I have No" . $love . "<br>";
 
 ```
 
-## 📺 Technologies
+## Technologies
 Talk to me about
 - Front-end development using **HTML, CSS**
 - Backend development using **PHP**
@@ -28,7 +28,7 @@ Talk to me about
 - Desktop Application development using **Python**
 - Currently I'm learning the **C#** language
 
-## 👨‍💻 Profile details
+## Profile details
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh-rodro&theme=github)
 
