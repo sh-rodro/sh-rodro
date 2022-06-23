@@ -20,6 +20,24 @@ echo "I have No" . $love . "<br>";
 
 ```
 
+### friends.py
+```python
+#kew ki bad pore geso, tantion nio na amay knock koro add kore dibo.
+myfriends = ["Likhon","Tahsin","Efaz","Uzzal", "Shanta"]
+
+#hae! tomakei khujo amar bondhuder talikay
+friend = input("Find you in friendslist: ")
+
+#eii eigula ki! jottosob ajayra
+if  friend in myfriends:
+    #hae print koro
+    print(friend,"is my friend")
+
+else:
+    #ahare! kosto nio na
+    print("Sorry! he/she is not my friend")
+```    
+    
 ## Technologies
 Talk to me about
 - Front-end development using **HTML, CSS**
