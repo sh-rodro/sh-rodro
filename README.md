@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub! I'm <a href="https://sh-rodro.github.io">@sh-rodro</a>, hungry coder
 
-I live in Dhaka, Bangladesh and studying Computer Science and Technology at Dhaka Polytechnic Institute.
+My name is Sakhawat Hossain. Everyone calls me Rodro.I am studying Diploma in Engineering on Computer Science and Technology (CST) at Dhaka Polytechnic Institute, Dhaka, Bangladesh. In addition to my studies, I love to read books in my spare time.
 
 ### aboutme.php
 
