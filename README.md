@@ -38,13 +38,6 @@ else:
     print("Sorry! he/she is not my friend")
 ```    
     
-## Technologies
-Talk to me about
-- Front-end development using **HTML, CSS**
-- Backend development using **PHP**
-- Database using **MySQL**
-- Desktop Application development using **Python**
-- Currently I'm learning the **C#** language
 
 ## Profile details
 
