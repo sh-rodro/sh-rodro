@@ -22,7 +22,7 @@ echo "I have No" . $love . "<br>";
 
 ### friends.py
 ```python
-#kew ki bad pore geso, tantion nio na amay message pathao add kore dibo.
+#kew ki bad pore geso, tantion nio na amay email pathao add kore dibo.
 myfriends = ["Likhon","Tahsin","Efaz","Uzzal", "Shanta"]
 
 #hae! tomakei khujo amar bondhuder talikay
