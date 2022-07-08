@@ -26,7 +26,7 @@ echo "I have No" . $love . "<br>";
 myfriends = ["Likhon","Tahsin","Efaz","Uzzal", "Shanta"]
 
 #hae! tomakei khujo amar bondhuder talikay
-friend = input("Find you in friendslist: ")
+friend = input("Find your name in my friendslist: ")
 
 #eii eigula ki! jottosob ajayra
 if  friend in myfriends:
